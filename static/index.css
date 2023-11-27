@@ -1,0 +1,85 @@
+.login-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 0;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+.form-floating{
+    padding: 2px;
+}
+
+.manager-home{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 0;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+.manager-form{
+    border: 0.5px solid grey;
+    width: 75vw;
+    height: 75vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    min-width: none;
+    border-radius: 22px;
+}
+.mb-3{
+    width: 60vw;
+}
+.mb-2{
+    display: flex;
+    margin: 20px;
+}
+.card {
+    width: calc(33.33% - 10px); /* Adjust margin as needed */
+    margin-bottom: 20px; /* Margin between rows */
+    border: 1px solid #ccc;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-left: 50px;
+    margin-top: 25vh;
+    border-radius: 22px;
+
+    /* Example styles */
+  }
+  
+.card{
+    margin-left: 50px;
+    margin-top: 25vh;
+    border-radius: 22px;
+    width: calc(33.33% - 10px); /* Adjust margin as needed */
+    margin-bottom: 20px; /* Margin between rows */
+    border: 1px solid #ccc;
+    padding: 20px;
+    box-sizing: border-box;
+/* Example styles */
+}
+.btn{
+    margin-top: 10px;
+  }
+.home{
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: space-between;
+    max-width: 900px;
+    margin: 0 auto; */
+      
+}  
+.cart-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
